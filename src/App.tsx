@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import profileData from '../../data/master_profile.json'
+import profileData from './data/master_profile.json'
 import './index.css'
 
 function App() {

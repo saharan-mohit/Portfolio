@@ -1,0 +1,126 @@
+{
+  "personal_info": {
+    "full_name": "Mohit Saharan",
+    "email": "mohitsaharan407@gmail.com",
+    "password": "Mohit@29",
+    "phone": "+91-8571949811",
+    "location": "India",
+    "linkedin": "https://www.linkedin.com/in/mohit-saharan-8379b4204/",
+    "github": "https://github.com/saharan-mohit"
+  },
+  "education": [
+    {
+      "institution": "National Institute of Technology Kurukshetra",
+      "degree": "B.Tech - Electronics and Communication Engineering (ECE)",
+      "field_of_study": "Electronics and Communication",
+      "start_date": "2020",
+      "end_date": "2024",
+      "gpa": "8.32/10",
+      "location": "Kurukshetra, India",
+      "highlights": []
+    },
+    {
+      "institution": "New Yashoda Public School",
+      "degree": "Class XII, CBSE",
+      "field_of_study": "General",
+      "start_date": "2020",
+      "end_date": "2020",
+      "gpa": "94.2%",
+      "location": "Hisar, Haryana",
+      "highlights": []
+    },
+    {
+      "institution": "Baba Bilasagar Public School",
+      "degree": "Class X, CBSE",
+      "field_of_study": "General",
+      "start_date": "2018",
+      "end_date": "2018",
+      "gpa": "90.6%",
+      "location": "Khairi, Haryana",
+      "highlights": []
+    }
+  ],
+  "experience": [
+    {
+      "company": "Trianz",
+      "role": "Software Product Engineer",
+      "location": "Remote",
+      "start_date": "Sept 2024",
+      "end_date": "Present",
+      "bullet_points": [
+        {
+          "text": "Designed and developed multiple reactive microservices using Spring Boot, WebFlux, and Project Reactor, enabling high-throughput, non-blocking APIs.",
+          "tags": ["Spring Boot", "WebFlux", "Reactive Programming", "Project Reactor", "Microservices"]
+        },
+        {
+          "text": "Implemented reactive database access with R2DBC + PostgreSQL, improving query response times for large-scale datasets.",
+          "tags": ["R2DBC", "PostgreSQL", "Database"]
+        },
+        {
+          "text": "Integrated JWT authentication and AES encryption for secure, stateless communication and sensitive data handling.",
+          "tags": ["Security", "JWT", "AES Encryption"]
+        },
+        {
+          "text": "Developed RESTful APIs with OpenAPI/Swagger documentation, standardized DTO contracts, and centralized exception handling.",
+          "tags": ["REST API", "Swagger", "OpenAPI"]
+        },
+        {
+          "text": "Automated testing with JUnit 5, Mockito, Reactor Test, and TestContainers, achieving high test coverage for both unit and integration scenarios.",
+          "tags": ["Testing", "JUnit 5", "Mockito", "TestContainers"]
+        },
+        {
+          "text": "Leveraged AI-assisted development tools (Cursor, LLM-based code assistants) to accelerate feature implementation, refactoring, debugging, and test creation across reactive microservices.",
+          "tags": ["AI Tools", "Productivity", "Cursor"]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Food Delivery Web Application",
+      "description": "Developed a MERN stack food delivery application with user authentication and order management.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Material UI"],
+      "link": "https://food-app-frontend-five.vercel.app/",
+      "highlights": [
+        "Implemented responsive design with React.js and Material UI, ensuring seamless user experience across mobile and desktop.",
+        "Built RESTful API endpoints with Express.js and Node.js, utilizing MongoDB for data persistence and JWT for secure authentication."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Java (Advanced)", "C/C++ (Advanced)", "JavaScript (Intermediate)", "Python (Intermediate)"]
+    },
+    {
+      "category": "Backend Technologies",
+      "items": ["Spring Boot", "Spring WebFlux", "Reactive Programming", "Microservices Architecture", "Project Reactor", "Spring Security", "AOP", "Actuator"]
+    },
+    {
+      "category": "Database Technologies",
+      "items": ["R2DBC", "PostgreSQL", "MongoDB"]
+    },
+    {
+      "category": "Development Tools",
+      "items": ["Git", "GitHub", "GitLab", "Jira", "Confluence", "Swagger/OpenAPI", "Postman", "IntelliJ IDEA"]
+    },
+    {
+      "category": "Computer Science Fundamentals",
+      "items": ["Data Structures", "Algorithms", "OOPS", "Concurrency", "Low Level Design"]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Leaf Disease Detection using Machine Learning",
+      "issuer": "Springer conference proceedings",
+      "date": "2024",
+      "link": "https://drive.google.com/file/d/1D9guMxKA22HvYlpREna828TgCf1UgZqD/view?usp=sharing"
+    },
+    {
+      "name": "Specialist rating on Codeforces",
+      "issuer": "Codeforces",
+      "date": "2024",
+      "link": "https://codeforces.com/profile/mohit_saharan"
+    }
+  ]
+}
