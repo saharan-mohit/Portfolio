@@ -27,9 +27,9 @@ function App() {
       <section className="hero">
         <img src="/hero-bg.png" alt="background" className="hero-bg" />
         <div className="hero-content">
-          <div className="hero-greeting">Hello, World. I am</div>
+          <div className="hero-greeting">Welcome, I am</div>
           <h1 className="hero-title">{personal_info.full_name}</h1>
-          <h2 className="hero-subtitle">Software Product Engineer specialising in reactive microservices and AI automation.</h2>
+          <h2 className="hero-subtitle">Software Development Engineer & Backend Developer specialising in reactive microservices and AI automation.</h2>
           
           <div className="social-links">
             <a href={personal_info.github} target="_blank" rel="noreferrer">GitHub</a>
