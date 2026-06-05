@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import { useEffect } from 'react'
 import profileData from './data/master_profile.json'
 import './index.css'
 
